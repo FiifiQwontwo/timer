@@ -1,0 +1,29 @@
+/* display.css */
+body{
+    margin: 0;
+    background: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#preset-name {
+    font-size: 3rem;
+    margin-top: 20px;
+}
+
+#timer {
+    font-size: 10rem;
+    margin-top: 100px;
+}
+
+.green { background: green; }
+.yellow { background: orange; }
+.red { background: red; }
+
+.hidden { display: none; }
+
+#time-up {
+    font-size: 8rem;
+    color: black;
+}
